@@ -1,5 +1,5 @@
 {
-  "name": "prettier-x-formatter",
+  "name": "x-formatter",
   "version": "0.0.1",
   "description": "Clean export of some prettierX items to help utilities such as prettier-plugin-x.",
   "license": "MIT",
